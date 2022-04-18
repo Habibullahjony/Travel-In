@@ -1,7 +1,7 @@
 import React from "react";
 import "./CheckOut.css";
 
-const Checkout = () => {
+const CheckOut = () => {
 	return (
 		<div>
 			<h1>this is a checkout component</h1>
@@ -9,4 +9,4 @@ const Checkout = () => {
 	);
 };
 
-export default Checkout;
+export default CheckOut;
